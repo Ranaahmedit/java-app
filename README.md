@@ -4,7 +4,7 @@
  ''' mvn clean package'''
 
 # Run tests 
-''' mvn test '''
+ '  mvn test'
 
 
-''' testing ci '''
+' testing ci'
